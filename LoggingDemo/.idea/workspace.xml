@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8089107-8906-448d-a82c-db95bf7c967b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYaGibZ5G99CgViBlN1618OfCI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lc.java.logging" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoggerExample">
+    <configuration name="ConfigurationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.java.logging.ConfigurationExample" />
+      <module name="LoggingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.java.logging.FilterExample" />
+      <module name="LoggingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.java.logging.FormatterExample" />
+      <module name="LoggingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.java.logging.HandlerExample" />
+      <module name="LoggingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc.java.logging.LoggerExample" />
+      <module name="LoggingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lc.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoggerExample" />
+      <item itemvalue="Application.HandlerExample" />
+      <item itemvalue="Application.FormatterExample" />
+      <item itemvalue="Application.FilterExample" />
+      <item itemvalue="Application.ConfigurationExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoggerExample" />
+        <item itemvalue="Application.ConfigurationExample" />
+        <item itemvalue="Application.FilterExample" />
+        <item itemvalue="Application.FormatterExample" />
+        <item itemvalue="Application.HandlerExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8089107-8906-448d-a82c-db95bf7c967b" name="Default Changelist" comment="" />
+      <created>1575535889076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575535889076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575546694570">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="418" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.931@0.28.1920.931" timestamp="1575546694570" />
+    <state x="826" y="194" width="267" height="605" key="#xdebugger.evaluate" timestamp="1575615263764">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="826" y="194" width="267" height="605" key="#xdebugger.evaluate/0.28.1920.931@0.28.1920.931" timestamp="1575615263764" />
+    <state width="1872" height="290" key="GridCell.Tab.0.bottom" timestamp="1575621176984">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.0.bottom/0.28.1920.931@0.28.1920.931" timestamp="1575621176984" />
+    <state width="1872" height="290" key="GridCell.Tab.0.center" timestamp="1575621176941">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.0.center/0.28.1920.931@0.28.1920.931" timestamp="1575621176941" />
+    <state width="1872" height="290" key="GridCell.Tab.0.left" timestamp="1575621176908">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.0.left/0.28.1920.931@0.28.1920.931" timestamp="1575621176908" />
+    <state width="1872" height="290" key="GridCell.Tab.0.right" timestamp="1575621176976">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.0.right/0.28.1920.931@0.28.1920.931" timestamp="1575621176976" />
+    <state width="1872" height="290" key="GridCell.Tab.1.bottom" timestamp="1575621176985">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.1.bottom/0.28.1920.931@0.28.1920.931" timestamp="1575621176985" />
+    <state width="1872" height="290" key="GridCell.Tab.1.center" timestamp="1575621176985">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.1.center/0.28.1920.931@0.28.1920.931" timestamp="1575621176985" />
+    <state width="1872" height="290" key="GridCell.Tab.1.left" timestamp="1575621176984">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.1.left/0.28.1920.931@0.28.1920.931" timestamp="1575621176984" />
+    <state width="1872" height="290" key="GridCell.Tab.1.right" timestamp="1575621176985">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state width="1872" height="290" key="GridCell.Tab.1.right/0.28.1920.931@0.28.1920.931" timestamp="1575621176985" />
+    <state x="734" y="194" width="442" height="605" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575611792689">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="734" y="194" width="442" height="605" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.28.1920.931@0.28.1920.931" timestamp="1575611792689" />
+    <state x="523" y="232" width="863" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575612338108">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="523" y="232" width="863" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.28.1920.931@0.28.1920.931" timestamp="1575612338108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lc/java/logging/LoggerExample.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

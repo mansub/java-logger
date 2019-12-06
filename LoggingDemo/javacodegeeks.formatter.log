@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-05T10:03:02.598667Z</date>
+  <millis>1575540182598</millis>
+  <nanos>667000</nanos>
+  <sequence>0</sequence>
+  <logger>lc.java.logging.FormatterExample</logger>
+  <level>INFO</level>
+  <class>lc.java.logging.FormatterExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finnest message: Logger with DEFAULT FORMATTER</message>
+</record>
+Dec 05, 2019 3:33:03 PM lc.java.logging.FormatterExample main
+FINEST: Finnest message: Logger with SIMPLE FORMATTER

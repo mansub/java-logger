@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-05T09:49:26.117003Z</date>
+  <millis>1575539366117</millis>
+  <nanos>3000</nanos>
+  <sequence>0</sequence>
+  <logger>lc.java.logging.HandlerExample</logger>
+  <level>CONFIG</level>
+  <class>lc.java.logging.HandlerExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2019-12-05T09:49:26.511375Z</date>
+  <millis>1575539366511</millis>
+  <nanos>375000</nanos>
+  <sequence>1</sequence>
+  <logger>lc.java.logging.HandlerExample</logger>
+  <level>FINE</level>
+  <class>lc.java.logging.HandlerExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2019-12-05T09:49:26.511986Z</date>
+  <millis>1575539366511</millis>
+  <nanos>986000</nanos>
+  <sequence>2</sequence>
+  <logger>lc.java.logging.HandlerExample</logger>
+  <level>FINER</level>
+  <class>lc.java.logging.HandlerExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
