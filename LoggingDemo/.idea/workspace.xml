@@ -26,6 +26,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -159,6 +161,10 @@
       <screen x="0" y="28" width="1920" height="931" />
     </state>
     <state x="826" y="194" width="267" height="605" key="#xdebugger.evaluate/0.28.1920.931@0.28.1920.931" timestamp="1575615263764" />
+    <state x="574" y="88" width="761" height="818" key="CommitChangelistDialog2" timestamp="1575621486898">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="574" y="88" width="761" height="818" key="CommitChangelistDialog2/0.28.1920.931@0.28.1920.931" timestamp="1575621486898" />
     <state width="1872" height="290" key="GridCell.Tab.0.bottom" timestamp="1575621176984">
       <screen x="0" y="28" width="1920" height="931" />
     </state>
@@ -191,6 +197,10 @@
       <screen x="0" y="28" width="1920" height="931" />
     </state>
     <state width="1872" height="290" key="GridCell.Tab.1.right/0.28.1920.931@0.28.1920.931" timestamp="1575621176985" />
+    <state x="555" y="229" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1575621552990">
+      <screen x="0" y="28" width="1920" height="931" />
+    </state>
+    <state x="555" y="229" width="800" height="535" key="Vcs.Push.Dialog.v2/0.28.1920.931@0.28.1920.931" timestamp="1575621552990" />
     <state x="734" y="194" width="442" height="605" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575611792689">
       <screen x="0" y="28" width="1920" height="931" />
     </state>
